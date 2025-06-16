@@ -28,20 +28,33 @@ A simple but engaging game where the player tries to guess a randomly generated 
 
 ---
 
+### Hangman (`Hangman.ipynb`)
+
+A console-based version of the classic Hangman game using the NLTK `words` corpus. 
+
+- Word selection using `nltk.corpus.words`
+- Filtering for length and character type
+- Display of guessed letters and remaining attempts
+- Input validation and replay-safe logic
+
+---
+
 ## Tools Used
 
-- Python (Standard Library only)
-- `random` for number generation
-- `input()` for user interaction
-- `try-except` for robust input validation
+- Python (Standard Library)
+- `random` — for word and number selection
+- `input()` — for interactive console gameplay
+- `try-except` — for input validation
+- `nltk` — for natural language word data (Hangman only)
 
 ## Files
 
 - `Tic_Tac_Toe.ipynb` — Single-player Tic Tac Toe with basic AI logic
 - `Random_Number_Game.ipynb` — Customizable number guessing game with attempt limits
+- `Hangman.ipynb` — Word-guessing game using the NLTK English word corpus
 
 ## Author
 
 **Grady Cooke**  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
-[GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/grady-cooke)  
+[GitHub](https://github.com/gradycooke)
