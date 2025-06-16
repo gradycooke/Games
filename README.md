@@ -42,6 +42,6 @@ A simple but engaging game where the player tries to guess a randomly generated 
 
 ## Author
 
-**[Your Name]**  
+**Grady Cooke**  
 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 [GitHub](https://github.com/your-username)
