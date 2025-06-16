@@ -12,7 +12,7 @@ A classic two-player game adapted for a single player against a basic AI. The ga
 - Turn-based interaction in the console
 - Win detection for rows, columns, and diagonals
 - Two AI modes: first-available or random move selection
-- Input validation and friendly error handling
+- Input validation and error handling
 
 ---
 
@@ -23,7 +23,7 @@ A simple but engaging game where the player tries to guess a randomly generated 
 - Customizable upper limit for the random number
 - User-defined number of guesses allowed
 - Feedback for too-low or too-high guesses
-- Graceful handling of invalid inputs
+- Handling of invalid inputs
 - End-of-game feedback with the correct number revealed
 
 ---
